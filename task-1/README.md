@@ -59,23 +59,23 @@ All tasks will be displayed in the "My ToDo Lists" section.
 ## Screenshots
 The home page displays "Add Task" button to start adding tasks and a list of available todo tasks.
 <p align="center">
-<img src="task-1/screenshoots/Screenshot from 2024-08-03 11-59-51.png" height="auto" width="500"/>
-  <img src="task-1/screenshoots/Screenshot from 2024-08-03 12-00-41.png" height="auto" width="500"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-1/screenshoots/Screenshot from 2024-08-03 11-59-51.png" height="auto" width="500"/>
+  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-1/screenshoots/Screenshot from 2024-08-03 12-00-41.png" height="auto" width="500"/>
 </p>
 
 The form for adding a new task, including fields for the title and description.
 <p align="center">
-<img src="task-1/screenshoots/Screenshot from 2024-08-03 12-00-08.png" height="auto" width="500"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-1/screenshoots/Screenshot from 2024-08-03 12-00-08.png" height="auto" width="500"/>
 </p>
 
 prompt form to edit the title and description of choosen task.
 <p align="center">
-<img src="task-1/screenshoots/Screenshot from 2024-08-03 12-00-57.png" height="auto" width="500"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-1/screenshoots/Screenshot from 2024-08-03 12-00-57.png" height="auto" width="500"/>
 </p>
 
 Display error message for invalid/empty input for the two fields.
 <p align="center">
-<img src="task-1/screenshoots/Screenshot from 2024-08-03 12-01-39.png" height="auto" width="500"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-1/screenshoots/Screenshot from 2024-08-03 12-01-39.png" height="auto" width="500"/>
 </p>
 
 
