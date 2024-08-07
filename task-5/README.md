@@ -12,11 +12,13 @@ This project contains a simple contact form built using React, TypeScript and cs
 
 ## Installation
 #### Clone the repository:
-```git clone <repository_url>```
+```git clone https://github.com/bemnet16/A2SV-G5-webLearningPath.git```
 #### Navigate to the project directory:
-```cd <project_directory>```
+```cd task-5```
 #### Install dependencies:
 ```npm install```
+### Running the application:
+```npm start```
 
 ## Features
 Form Validation: Ensures that all fields are correctly filled out with appropriate error messages for missing or invalid inputs.
