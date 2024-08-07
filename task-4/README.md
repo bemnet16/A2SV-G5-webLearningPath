@@ -34,7 +34,7 @@ To get a local copy up and running, follow these steps:
  ``` npm install ```
 
 4. run the application:
-5. ``` npm start ```
+ ``` npm start ```
 
 ## Features
 
