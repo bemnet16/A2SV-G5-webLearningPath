@@ -1,30 +1,45 @@
-# React + TypeScript + Vite
+# ContactForm Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
 
-Currently, two official plugins are available:
+- [Description](#description)
+- [Installation](#installation)
+- [Features](#features)
+- [Screenshots](#screenshots)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+This project contains a simple contact form built using React, TypeScript and css style. It leverages the **react-hook-form** library to handle form state and validation. The form includes fields for name, email, and message, and displays appropriate error messages for invalid or empty inputs. Upon successful submission, the form resets and displays a success message.
 
-## Expanding the ESLint configuration
+## Installation
+#### Clone the repository:
+```git clone https://github.com/bemnet16/A2SV-G5-webLearningPath.git```
+#### Navigate to the project directory:
+```cd task-5```
+#### Install dependencies:
+```npm install```
+### Running the application:
+```npm start```
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Features
+Form Validation: Ensures that all fields are correctly filled out with appropriate error messages for missing or invalid inputs.
+Form Reset: Resets the form fields upon successful submission.
+Submission Status Messages: Provides feedback to the user indicating whether the form is being submitted or has been successfully submitted.
 
-- Configure the top-level `parserOptions` property like this:
+## ScreenShots
+Form interface
+<p align="center">
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-5/screenshots/Screenshot%20from%202024-08-07%2014-58-02.png" height="auto" width="500"/>
+</p>
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Display appropriate error message
+<p align="center">
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-5/screenshots/Screenshot%20from%202024-08-07%2014-58-20.png" height="auto" width="500"/>
+  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-5/screenshots/Screenshot%20from%202024-08-07%2014-58-39.png" height="auto" width="500"/>
+
+</p>
+
+Show success message
+<p align="center">
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-5/screenshots/Screenshot%20from%202024-08-07%2014-59-54.png" height="auto" width="500"/>
+</p>
