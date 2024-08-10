@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# (Task-6) Job listing application
 
-## Getting Started
+## Table of Contents
 
-First, run the development server:
+- [Description](#description)
+- [Installation](#installation)
+- [Features](#features)
+- [Screenshots](#screenshots)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Description
+This project is a simple **job listing app** built using next.js, tailwndCSS and lucid react icon. It includes a Job Card component populated with dummy data and an avatar image, and a Job Listing page. The application demonstrates essential skills in component design, data handling, and UI styling.
+
+
+
+## Installation
+#### Clone the repository:
+```git clone https://github.com/bemnet16/A2SV-G5-webLearningPath.git```
+#### Navigate to the project directory:
+```cd task-6```
+#### Install dependencies:
+``` bash 
+npm install #or
+yarn install #or
+pnpm install
 ```
-
+### Running the application:
+```bash
+npm run dev #or
+yarn run dev #or
+pnpm run dev
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
+Job Card Component: A visually appealing card that displays job details like the company name, job title, and description.
+Data Population: Utilizes dummy data to populate the job card with relevant information.
+Avatar Integration: Includes an avatar image within the card utilize **next/image**, aligning with the design specifications.
+Responsive Design: The application is responsive and works across different screen sizes.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## ScreenShots
+List of jobs
+<p align="center">
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-19-53.png" height="auto" width="450"/>
+  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-23-57.png" height="auto" width="250"/>
+</p>
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+Detail description of a job
+<p align="center">
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-20-30.png" height="auto" width="500"/>
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Show success message
+<p align="center">
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-27-04.png" height="auto" width="250"/>
+  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-27-08.png" height="auto" width="250"/>
+</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
