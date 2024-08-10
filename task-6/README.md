@@ -50,7 +50,6 @@ Detail description of a job
 <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-20-30.png" height="auto" width="500"/>
 </p>
 
-Show success message
 <p align="center">
 <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-27-04.png" height="auto" width="250"/>
   <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-27-08.png" height="auto" width="250"/>
