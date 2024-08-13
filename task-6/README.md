@@ -45,18 +45,18 @@ Home page / has link to navigate to job lists
 
 List of jobs
 <p align="center">
-<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-19-53.png" height="auto" width="450"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-12%2023-42-43.png" height="auto" width="450"/>
   <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-23-57.png" height="auto" width="250"/>
 </p>
 
 Detail description of a job
 <p align="center">
-<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-20-30.png" height="auto" width="500"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-12%2023-48-32.png" height="auto" width="500"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-27-04.png" height="auto" width="250"/>
-  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-27-08.png" height="auto" width="250"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-12%2023-51-20.png" height="auto" width="250"/>
+  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-12%2023-51-25.png" height="auto" width="250"/>
 </p>
 
 
