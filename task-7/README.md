@@ -1,4 +1,4 @@
-# (Task-6) Job listing application
+# (Task-7) Integrating API Data into the Job listing application
 
 ## Table of Contents
 
@@ -8,7 +8,7 @@
 - [Screenshots](#screenshots)
 
 ## Description
-This project is a simple **job listing app** built using next.js, tailwndCSS and lucid react icon. It includes a Job Card component populated with dummy data and an avatar image, and a Job Listing page. The application demonstrates essential skills in component design, data handling, and UI styling.
+This project is a simple **job listing app** built using next.js, tailwndCSS and lucid react icon and **redux toolkit query(RTK)** to handle api requests. It includes job listing dashboard, loading state skeleton, Job Card component populated with fetched data and also appropriate error notify pages. The application demonstrates essential skills such as using (RTK Query), component design, data fetching and handling.
 
 
 
@@ -16,7 +16,7 @@ This project is a simple **job listing app** built using next.js, tailwndCSS and
 #### Clone the repository:
 ```git clone https://github.com/bemnet16/A2SV-G5-webLearningPath.git```
 #### Navigate to the project directory:
-```cd task-6```
+```cd task-7```
 #### Install dependencies:
 ``` bash 
 npm install #or
@@ -32,8 +32,10 @@ pnpm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Features
+- **Data Integration:** Utilizes RTK Query to populate the job card with relevant information and provide detailed description dynamically.
 - **Job Card Component:** A visually appealing card that displays job details like the company name, job title, and description.
-- **Data Population:** Utilizes dummy data to populate the job card with relevant information.
+- **User-Friendly UI Skeletons:** Implements loading skeletons to enhance user experience during data fetches.
+- **Appropriate Error Pages:** Provides custom error pages to handle scenarios gracefully.
 - **Avatar Integration:** Includes an avatar image within the card utilize **next/image**, aligning with the design specifications.
 - **Responsive Design:** The application is responsive and works across different screen sizes.
 
@@ -45,18 +47,33 @@ Home page / has link to navigate to job lists
 
 List of jobs
 <p align="center">
-<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-19-53.png" height="auto" width="450"/>
-  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-23-57.png" height="auto" width="250"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-12%2023-42-43.png" height="auto" width="600"/>
+  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-23-57.png" height="auto" width="150"/>
+</p>
+
+Loading skeleton while fetching list of jobs
+<p align="center">
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-13%2001-11-21.png" height="auto" width="650"/>
 </p>
 
 Detail description of a job
 <p align="center">
-<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-20-30.png" height="auto" width="500"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-13%2001-13-49.png" height="auto" width="650"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-27-04.png" height="auto" width="250"/>
-  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-27-08.png" height="auto" width="250"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-12%2023-51-20.png" height="auto" width="230"/>
+  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-12%2023-51-25.png" height="auto" width="230"/>
 </p>
 
+Loading skeleton for job description
+<p align="center">
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-13%2001-12-21.png" height="auto" width="650"/>
+</p>
+
+Error pages
+<p align="center">
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-13%2001-12-43.png" height="auto" width="250"/>
+  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-13%2001-12-56.png" height="auto" width="250"/>
+</p>
 
