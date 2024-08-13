@@ -8,7 +8,7 @@
 - [Screenshots](#screenshots)
 
 ## Description
-This project is a simple **job listing app** built using next.js, tailwndCSS and lucid react icon and **redux toolkit query(RTK)** to handle api requests. It includes job listing dashboard, loading state skeleton, Job Card component populated with fetched data and also appropriate error notify pages. The application demonstrates essential skills such as using (RTK Query), component design, data fetching and handling.
+This project is a simple **job listing app** built using next.js, tailwndCSS, lucid react icon and **redux toolkit query (RTK Query)** for handling **api** requests. It includes job listing dashboard, loading state skeleton, Job Card component populated with fetched data and also appropriate error notifing pages. The application demonstrates essential skills such as using (RTK Query), component design, data fetching and handling.
 
 
 
@@ -56,6 +56,11 @@ Loading skeleton while fetching list of jobs
 <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-13%2001-11-21.png" height="auto" width="650"/>
 </p>
 
+Error fetching list of jobs
+<p align="center">
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-13%2001-11-39.png" height="auto" width="650"/>
+</p>
+
 Detail description of a job
 <p align="center">
 <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-13%2001-13-49.png" height="auto" width="650"/>
@@ -73,7 +78,7 @@ Loading skeleton for job description
 
 Error pages
 <p align="center">
-<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-13%2001-12-43.png" height="auto" width="250"/>
-  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-13%2001-12-56.png" height="auto" width="250"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-13%2001-12-43.png" height="auto" width="400"/>
+  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-7/public/images/Screenshot%20from%202024-08-13%2001-12-56.png" height="auto" width="400"/>
 </p>
 
