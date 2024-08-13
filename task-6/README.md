@@ -40,13 +40,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## ScreenShots
 Home page / has link to navigate to job lists
 <p align="center">
-<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2014-23-54.png" height="auto" width="500"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2014-23-54.png" height="auto" width="600"/>
 </p>
 
 List of jobs
 <p align="center">
-<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-12%2023-42-43.png" height="auto" width="450"/>
-  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-23-57.png" height="auto" width="250"/>
+<img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-12%2023-42-43.png" height="auto" width="600"/>
+  <img src="https://github.com/bemnet16/A2SV-G5-webLearningPath/blob/main/task-6/public/images/Screenshot%20from%202024-08-10%2011-23-57.png" height="auto" width="150"/>
 </p>
 
 Detail description of a job
