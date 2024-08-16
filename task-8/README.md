@@ -51,7 +51,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - **Appropriate Error Pages:** Provides custom error pages to handle scenarios gracefully.
 - **Avatar Integration:** Includes an avatar image within the card utilize **next/image**, aligning with the design specifications.
 - **Responsive Design:** The application is responsive and works across different screen sizes.
-- 
+  
 
 ## ScreenShots
 Home page / has link to navigate to job lists
