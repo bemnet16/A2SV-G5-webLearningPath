@@ -13,22 +13,33 @@ This project is a simple **job listing app** built using next.js, tailwndCSS, lu
 
 
 ## Installation
-#### Clone the repository:
-```git clone https://github.com/bemnet16/A2SV-G5-webLearningPath.git```
-#### Navigate to the project directory:
-```cd task-7```
-#### Install dependencies:
-``` bash 
-npm install #or
-yarn install #or
-pnpm install
-```
-### Running the application:
-```bash
-npm run dev #or
-yarn run dev #or
-pnpm run dev
-```
+
+To get a local copy up and running, follow these steps:
+
+1. Clone the repository:
+
+    ```sh
+    git clone https://github.com/bemnet16/A2SV-G5-webLearningPath.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```sh
+    cd A2SV-G5-webLearningPath
+    cd task-7
+    ```
+3. Install dependencies:
+    ``` sh 
+    npm install #or
+    yarn install #or
+    pnpm install
+    ```
+ 4. Running the application:
+    ```sh
+    npm run dev #or
+    yarn run dev #or
+    pnpm run dev
+    ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Features
