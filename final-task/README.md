@@ -14,9 +14,13 @@ This project is a opportunity listing app built using Next.js, TailwindCSS, Luci
 
 ## Installation
 #### Clone the repository:
-```git clone https://github.com/bemnet16/A2SV-G5-webLearningPath.git```
+```bash
+git clone https://github.com/bemnet16/A2SV-G5-webLearningPath.git
+```
 #### Navigate to the project directory:
-```cd final-task```
+```bash
+cd final-task
+```
 #### Install dependencies:
 ``` bash 
 npm install #or
